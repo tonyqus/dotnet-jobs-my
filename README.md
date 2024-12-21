@@ -10,6 +10,7 @@
 - Access Group - KL
 - Hytech - KL
 - HTC Global Service - KL
+- Esri Malaysia - KL
    
 ### Entertainment
 - Genting Berhad - KL
