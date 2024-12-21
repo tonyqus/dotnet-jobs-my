@@ -12,6 +12,7 @@
 - HTC Global Service - KL
 - Esri Malaysia - KL
 - Tata Consultancy Service - KL
+- Endava
    
 ### Entertainment
 - Genting Berhad - KL
