@@ -6,6 +6,7 @@
 - Exact - KL
 - Oxydata - Cyberjava
 - Canopus - KL
+- Access Group - KL
    
 ### Entertainment
 - Genting Berhad - KL
