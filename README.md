@@ -35,6 +35,9 @@
 ### Environment
 - DHI - KL
 
+### Logistics
+- Bassnet - KL
+
 ### Finance
 - RM Investment Bank - KL
 - Zurich Instance - KL
