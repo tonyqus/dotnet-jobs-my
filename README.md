@@ -3,6 +3,7 @@
 ### Software & Consulting
 - Cognizant
 - Sitecore
+- Exact
 
 ### Entertainment
 - Genting Berhad
