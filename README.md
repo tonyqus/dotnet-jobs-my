@@ -16,7 +16,8 @@
 - Ideagen - KL
 - Upscale - KL
 - Nettium - KL
-  
+- Trinerva Technology - Petaling Jaya
+    
 ### Travel
 - Discova - KL
 - 
