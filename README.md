@@ -11,6 +11,7 @@
 - Hytech - KL
 - HTC Global Service - KL
 - Esri Malaysia - KL
+- Tata Consultancy Service - KL
    
 ### Entertainment
 - Genting Berhad - KL
