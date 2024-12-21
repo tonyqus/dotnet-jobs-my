@@ -23,7 +23,7 @@
 - Genting Berhad - KL
   
 ### Petrochemical
-- Petronas - KL
+- Petronas Digital - KL
 
 ### Aviation
 - AirAsia - KL
