@@ -2,7 +2,7 @@
 
 ### Software & Consulting
 - Cognizant - KL
-- Avanade - KL
+- Accenture/Avanade - KL
 - Sitecore - KL
 - Exact - KL
 - Oxydata - Cyberjava
