@@ -14,6 +14,7 @@
 - Tata Consultancy Service - KL
 - Endava - KL
 - Ideagen - KL
+- Upscale - KL
 
 ### Travel
 - Discova - KL
