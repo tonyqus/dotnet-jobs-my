@@ -1,15 +1,15 @@
 # Companies using .NET in Malaysia
 
 ### Software & Consulting
-- Cognizant
-- Sitecore
-- Exact
+- Cognizant - KL
+- Sitecore - KL
+- Exact - KL
 
 ### Entertainment
-- Genting Berhad
+- Genting Berhad - KL
   
 ### Petrochemical
-- Petronas
+- Petronas - KL
 
 ### Aviation
 - AirAsia
