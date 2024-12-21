@@ -13,7 +13,10 @@
 - Esri Malaysia - KL
 - Tata Consultancy Service - KL
 - Endava
-   
+
+### Travel
+- Discova
+
 ### Entertainment
 - Genting Berhad - KL
   
