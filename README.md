@@ -9,6 +9,7 @@
 - Canopus - KL
 - Access Group - KL
 - Hytech - KL
+- HTC Global Service - KL
    
 ### Entertainment
 - Genting Berhad - KL
