@@ -18,13 +18,13 @@
 - Petronas - KL
 
 ### Aviation
-- AirAsia
+- AirAsia - KL
 - 
 
 ### Environment
-- DHI
+- DHI - KL
 
 ### Finance
-- RM Investment Bank
-- Zurich Instance
+- RM Investment Bank - KL
+- Zurich Instance - KL
 - 
