@@ -12,10 +12,12 @@
 - HTC Global Service - KL
 - Esri Malaysia - KL
 - Tata Consultancy Service - KL
-- Endava
+- Endava - KL
+- Ideagen - KL
 
 ### Travel
-- Discova
+- Discova - KL
+- 
 
 ### Entertainment
 - Genting Berhad - KL
