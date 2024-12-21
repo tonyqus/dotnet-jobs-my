@@ -5,7 +5,8 @@
 - Sitecore - KL
 - Exact - KL
 - Oxydata - Cyberjava
-  
+- Canopus - KL
+   
 ### Entertainment
 - Genting Berhad - KL
   
