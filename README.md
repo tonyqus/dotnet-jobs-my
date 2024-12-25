@@ -36,8 +36,9 @@
 ### Environment
 - DHI - KL
 
-### Logistics
+### Logistics/Transportation
 - Bassnet - KL
+- DigiHaul - KL
 
 ### Finance
 - RM Investment Bank - KL
