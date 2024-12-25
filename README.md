@@ -20,7 +20,8 @@
 - Arcstone - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - EDESK - KL
 - Skill Quotient - KL  ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
-- EBS Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6cbe.svg)
+- EBS Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Travel
 - Discova - KL
