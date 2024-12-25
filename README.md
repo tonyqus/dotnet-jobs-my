@@ -23,6 +23,12 @@
 - EBS Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Nintex - KL 
 
+### Finance/Insurance
+- RM Investment Bank - KL
+- Zurich Instance - KL
+- Chubb - KL
+- Opus Asset Management - KL
+
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
@@ -46,8 +52,3 @@
 ### Logistics/Transportation
 - Bassnet - KL
 - DigiHaul - KL
-
-### Finance/Insurance
-- RM Investment Bank - KL
-- Zurich Instance - KL
-- Chubb - KL
