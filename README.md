@@ -40,7 +40,7 @@
 - Bassnet - KL
 - DigiHaul - KL
 
-### Finance
+### Finance/Insurance
 - RM Investment Bank - KL
 - Zurich Instance - KL
 - Chubb - KL
