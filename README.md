@@ -18,7 +18,9 @@
 - Nettium - KL
 - Trinerva Technology - Petaling Jaya
 - Arcstone - KL
-    
+- EDESK - KL
+- Skill Quotient - KL
+      
 ### Travel
 - Discova - KL
 - 
