@@ -23,6 +23,7 @@
 - EBS Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Nintex - KL
 - Materialise - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Ideagen - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Finance/Insurance
 - RM Investment Bank - KL
