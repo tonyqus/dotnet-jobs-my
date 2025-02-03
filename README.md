@@ -28,6 +28,7 @@
 - Krisv Consulting Services - KL 
 - HTC Global Service - KL
 - Unison Consulting - KL
+- POWER IT SERVICES - KL
 
 ### Finance/Insurance
 - RM Investment Bank - KL
