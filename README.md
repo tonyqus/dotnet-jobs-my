@@ -26,7 +26,8 @@
 - Snappymob - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Access Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Krisv Consulting Services - KL 
-- HTC Global Service - KL 
+- HTC Global Service - KL
+- Unison Consulting - KL
 
 ### Finance/Insurance
 - RM Investment Bank - KL
