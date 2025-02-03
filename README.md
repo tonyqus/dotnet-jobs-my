@@ -25,6 +25,7 @@
 - Materialise - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Ideagen - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Snappymob - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Access Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Finance/Insurance
 - RM Investment Bank - KL
@@ -47,10 +48,10 @@
 
 ### Aviation
 - AirAsia - KL
-- 
 
-### Environment
+### Other
 - DHI - KL
+- Micro1 - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 
 ### Logistics/Transportation
 - Bassnet - KL
