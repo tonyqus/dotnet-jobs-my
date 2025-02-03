@@ -49,10 +49,13 @@
 ### Aviation
 - AirAsia - KL
 
-### Other
-- DHI - KL
-- Micro1 - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
-
 ### Logistics/Transportation
 - Bassnet - KL
 - DigiHaul - KL
+
+### Other
+- DHI - KL
+- Micro1 - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
+- Patricius IT - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+
+
