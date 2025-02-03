@@ -13,7 +13,6 @@
 - Esri Malaysia - KL
 - Tata Consultancy Service - KL
 - Endava - KL
-- Ideagen - KL
 - Upscale - KL
 - Nettium - KL
 - Trinerva Technology - Petaling Jaya
@@ -26,6 +25,8 @@
 - Ideagen - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Snappymob - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Access Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Krisv Consulting Services - KL 
+- HTC Global Service - KL 
 
 ### Finance/Insurance
 - RM Investment Bank - KL
@@ -35,10 +36,6 @@
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-
-### Travel
-- Discova - KL
-- 
 
 ### Entertainment
 - Genting Berhad - KL
@@ -55,7 +52,7 @@
 
 ### Other
 - DHI - KL
+- Discova - KL
 - Micro1 - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - Patricius IT - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-
 
