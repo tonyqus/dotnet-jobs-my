@@ -4,7 +4,7 @@
 - Cognizant - KL
 - Accenture/Avanade - KL
 - Sitecore - KL
-- Exact - KL
+- Exact - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Oxydata - Cyberjava
 - Canopus - KL
 - Access Group - KL
@@ -31,7 +31,8 @@
 - POWER IT SERVICES - KL
 - Trinity Wizards - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - SimpleTruss - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Hytech - KL 
+- Hytech - KL
+- UST - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Ecommerce 
 - Serunai Commerce - KL
@@ -42,6 +43,7 @@
 - Chubb - KL
 - Opus Asset Management - KL
 - RiDik - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Etiqa Insurance and Takaful - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
@@ -59,6 +61,7 @@
 ### Logistics/Transportation
 - Bassnet - KL
 - DigiHaul - KL
+- DHL - Selangor
 
 ### Other
 - DHI - KL
