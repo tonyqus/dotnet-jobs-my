@@ -35,6 +35,13 @@
 - UST - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Nintex - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Handshakes by DC Frontiers - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- INT Solution - Penang
+- TalentBook - Penang
+
+### Manufactoring
+- Agilent Technologies LDA - Penang
+- Innowave Tech - Penang
+- QES Group - Penang
 
 ### Ecommerce 
 - Serunai Commerce - KL
@@ -50,9 +57,10 @@
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
-### Entertainment
+### Entertainment/Agriculture
 - Genting Berhad - KL
 - EcoVadis - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
+- Wilmar GBS - Penang 
   
 ### Chemical
 - Petronas Digital - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
