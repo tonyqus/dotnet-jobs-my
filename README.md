@@ -66,7 +66,7 @@
 
 ### Entertainment/Agriculture
 - Genting Berhad - KL
-- EcoVadis - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
+- EcoVadis - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - Wilmar GBS - Penang
 - Ørsted - KL
   
