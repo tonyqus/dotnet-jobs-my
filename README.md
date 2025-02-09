@@ -41,6 +41,7 @@
 - YO IT CONSULTING - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - AaroRn Technologies - KL
 - Accord Innovations - Penang
+- Emapta - KL  ![remote](https://img.shields.io/badge/remote-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
@@ -60,6 +61,7 @@
 - Etiqa Insurance and Takaful - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Linnovate Partners - KL
 - Perbadanan Insurans Deposit Malaysia (PIDM) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Optimai (Malaysia) - KL
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
