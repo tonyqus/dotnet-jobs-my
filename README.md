@@ -54,8 +54,8 @@
 - Genting Berhad - KL
 - EcoVadis - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
   
-### Petrochemical
-- Petronas Digital - KL
+### Chemical
+- Petronas Digital - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Aviation
 - AirAsia - KL
