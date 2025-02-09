@@ -33,6 +33,8 @@
 - SimpleTruss - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Hytech - KL
 - UST - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Nintex - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Handshakes by DC Frontiers - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Ecommerce 
 - Serunai Commerce - KL
@@ -62,6 +64,9 @@
 - Bassnet - KL
 - DigiHaul - KL
 - DHL - Selangor
+
+### Web3
+- OKX - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Other
 - DHI - KL
