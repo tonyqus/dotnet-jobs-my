@@ -76,7 +76,7 @@
 - Petronas Digital - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Aviation
-- AirAsia - KL
+- AirAsia - KL ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ### Logistics/Transportation
 - Bassnet - KL
