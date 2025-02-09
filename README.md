@@ -37,6 +37,7 @@
 - Handshakes by DC Frontiers - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - INT Solution - Penang
 - TalentBook - Penang
+- Avensys Consulting - KL 
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
@@ -53,6 +54,7 @@
 - Opus Asset Management - KL
 - RiDik - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Etiqa Insurance and Takaful - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Linnovate Partners - KL 
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
@@ -60,7 +62,8 @@
 ### Entertainment/Agriculture
 - Genting Berhad - KL
 - EcoVadis - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
-- Wilmar GBS - Penang 
+- Wilmar GBS - Penang
+- Ørsted - KL
   
 ### Chemical
 - Petronas Digital - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
@@ -72,6 +75,7 @@
 - Bassnet - KL
 - DigiHaul - KL
 - DHL - Selangor
+- Annata - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Web3
 - OKX - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
