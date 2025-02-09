@@ -31,11 +31,15 @@
 - POWER IT SERVICES - KL
 - Net2Source - KL
 
+### Ecommerce 
+- Serunai Commerce - KL
+
 ### Finance/Insurance
 - RM Investment Bank - KL
 - Zurich Instance - KL
 - Chubb - KL
 - Opus Asset Management - KL
+- RiDik - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
