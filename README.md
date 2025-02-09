@@ -29,7 +29,9 @@
 - HTC Global Service - KL
 - Unison Consulting - KL
 - POWER IT SERVICES - KL
-- Net2Source - KL
+- Trinity Wizards - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- SimpleTruss - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Hytech - KL 
 
 ### Ecommerce 
 - Serunai Commerce - KL
