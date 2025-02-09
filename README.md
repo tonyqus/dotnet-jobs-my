@@ -33,8 +33,8 @@
 - SimpleTruss - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Hytech - KL
 - UST - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Nintex - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Handshakes by DC Frontiers - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Nintex - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- Handshakes by DC Frontiers - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - INT Solution - Penang
 - TalentBook - Penang
 - Avensys Consulting - KL
