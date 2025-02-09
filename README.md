@@ -40,11 +40,13 @@
 - Avensys Consulting - KL
 - YO IT CONSULTING - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - AaroRn Technologies - KL
+- Accord Innovations - Penang
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
 - Innowave Tech - Penang
 - QES Group - Penang
+- DDMan - Penang
 
 ### Ecommerce 
 - Serunai Commerce - KL
