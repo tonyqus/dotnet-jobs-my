@@ -42,6 +42,7 @@
 - AaroRn Technologies - KL
 - Accord Innovations - Penang
 - Emapta - KL  ![remote](https://img.shields.io/badge/remote-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
+- appspace - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
