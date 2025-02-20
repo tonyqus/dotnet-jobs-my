@@ -46,6 +46,8 @@
 - appspace - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - NCR Voyix - KL
 - Afizan Pte - JB
+- Experian - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Dexian Asia Pacific - Selangor 
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
@@ -75,8 +77,9 @@
 - Perbadanan Insurans Deposit Malaysia (PIDM) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - AIA Malaysia - KL 
 
-### Marketing
+### Marketing/Digital Agency
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- XR Extreme Reach - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Entertainment/Agriculture
 - Genting Berhad - KL
