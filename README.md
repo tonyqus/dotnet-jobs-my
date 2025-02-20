@@ -56,9 +56,10 @@
 ### Finance
 - RM Investment Bank - KL
 - Opus Asset Management - KL
-- RiDik - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- RiDik (NASDAQ:CLPS) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Linnovate Partners - KL
 - Optimai (Malaysia) - KL
+- RHB Banking Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 #### Insurance
 - Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
@@ -83,7 +84,7 @@
 - AirAsia - KL ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ### Logistics/Transportation
-- Bassnet - KL
+- Bassnet - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - DigiHaul - KL
 - DHL - Selangor
 - Annata - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
