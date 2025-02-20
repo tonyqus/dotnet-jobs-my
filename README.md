@@ -63,6 +63,7 @@
 - Linnovate Partners - KL
 - Perbadanan Insurans Deposit Malaysia (PIDM) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Optimai (Malaysia) - KL
+- Hannover Re - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
