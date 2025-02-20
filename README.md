@@ -48,6 +48,7 @@
 - Innowave Tech - Penang
 - QES Group - Penang
 - DDMan - Penang
+- Materialise - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Ecommerce 
 - Serunai Commerce - KL
