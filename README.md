@@ -65,6 +65,7 @@
 - Optimai (Malaysia) - KL
 - RHB Banking Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Fusang - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Ria Money Transfer - KL 
 
 #### Insurance
 - Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
@@ -72,6 +73,7 @@
 - Hannover Re - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Etiqa Insurance and Takaful - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Perbadanan Insurans Deposit Malaysia (PIDM) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- AIA Malaysia - KL 
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
@@ -93,6 +95,7 @@
 - DigiHaul - KL
 - DHL - Selangor
 - Annata - Selangor ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Tresdata - KL
 
 ### Web3
 - OKX - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
