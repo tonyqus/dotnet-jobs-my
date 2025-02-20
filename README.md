@@ -15,6 +15,7 @@
 - Endava - KL
 - Upscale - KL
 - Nettium - KL
+- EY - KL 
 - Trinerva Technology - Petaling Jaya
 - Arcstone - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - EDESK - KL
@@ -43,6 +44,8 @@
 - Accord Innovations - Penang
 - Emapta - KL  ![remote](https://img.shields.io/badge/remote-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - appspace - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
+- NCR Voyix - KL
+- Afizan Pte - JB
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
@@ -61,6 +64,7 @@
 - Linnovate Partners - KL
 - Optimai (Malaysia) - KL
 - RHB Banking Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Fusang - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 #### Insurance
 - Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
