@@ -55,7 +55,7 @@
 
 ### Finance/Insurance
 - RM Investment Bank - KL
-- Zurich Instance - KL
+- Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Chubb - KL
 - Opus Asset Management - KL
 - RiDik - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
