@@ -53,17 +53,19 @@
 ### Ecommerce 
 - Serunai Commerce - KL
 
-### Finance/Insurance
+### Finance
 - RM Investment Bank - KL
-- Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Chubb - KL
 - Opus Asset Management - KL
 - RiDik - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Etiqa Insurance and Takaful - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Linnovate Partners - KL
-- Perbadanan Insurans Deposit Malaysia (PIDM) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Optimai (Malaysia) - KL
+
+#### Insurance
+- Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Chubb Insurance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Hannover Re - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Etiqa Insurance and Takaful - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Perbadanan Insurans Deposit Malaysia (PIDM) - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 ### Marketing
 - DKSH Malaysia - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
