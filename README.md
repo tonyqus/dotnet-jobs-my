@@ -51,6 +51,7 @@
 - TWO95 International - KL
 - Encora - KL
 - Nityo Infotech - KL
+- Trinerva Technology - Selangor
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
