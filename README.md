@@ -47,7 +47,10 @@
 - NCR Voyix - KL
 - Afizan Pte - JB
 - Experian - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Dexian Asia Pacific - Selangor 
+- Dexian Asia Pacific - Selangor
+- TWO95 International - KL
+- Encora - KL
+- Nityo Infotech - KL
 
 ### Manufactoring
 - Agilent Technologies LDA - Penang
@@ -55,6 +58,7 @@
 - QES Group - Penang
 - DDMan - Penang
 - Materialise - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- IND Technology Asia - KL
 
 ### Ecommerce 
 - Serunai Commerce - KL
