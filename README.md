@@ -41,7 +41,7 @@
 - Avensys Consulting - KL
 - YO IT CONSULTING - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - AaroRn Technologies - KL
-- Accord Innovations - Penang
+- Accord Innovations - Penang/KL
 - Emapta - KL  ![remote](https://img.shields.io/badge/remote-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - appspace - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
 - NCR Voyix - KL
