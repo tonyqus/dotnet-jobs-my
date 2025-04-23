@@ -12,7 +12,7 @@
 - HTC Global Service - KL
 - Esri Malaysia - KL
 - Tata Consultancy Service - KL
-- Endava - KL
+- Endava - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Upscale - KL
 - Nettium - KL
 - EY - KL 
