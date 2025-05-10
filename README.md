@@ -72,7 +72,7 @@
 - Optimai (Malaysia) - KL
 - RHB Banking Group - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - Fusang - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
-- Ria Money Transfer - KL 
+- Ria Money Transfer - KL
 
 #### Insurance
 - Zurich Instance - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
