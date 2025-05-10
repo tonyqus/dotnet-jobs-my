@@ -60,6 +60,7 @@
 - DDMan - Penang
 - Materialise - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - IND Technology Asia - KL ![aws](https://img.shields.io/badge/aws-f8991b.svg)
+- Siemens - Penang
 
 ### Ecommerce 
 - Serunai Commerce - KL
