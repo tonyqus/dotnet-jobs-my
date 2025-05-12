@@ -116,3 +116,4 @@
 - Patricius IT - KL ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
 - AMK Technology - KL
 - Frontline Data Solutions - KL ![remote](https://img.shields.io/badge/remote-2d6cbe.svg)
+- IHH Healthcare - KL
